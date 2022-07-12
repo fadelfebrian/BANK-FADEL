@@ -1,0 +1,1 @@
+package bni.assignment.core.models;
