@@ -1,0 +1,6 @@
+bni/assignment/core/AssignmentBniApplication.class
+bni/assignment/core/controllers/NasabahController.class
+bni/assignment/core/models/package-info.class
+bni/assignment/core/repositories/NasabahRepository.class
+bni/assignment/core/models/NasabahModel.class
+bni/assignment/core/services/NasabahService.class
